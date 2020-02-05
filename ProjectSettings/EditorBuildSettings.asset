@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d0ef4385209ff824aa2734ab253f7e8d
+  - enabled: 1
+    path: Assets/Scenes/Startup.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BreakFast.unity
+    guid: 7496f74481cb75b43bf46a53eea20d44
+  - enabled: 0
+    path: Assets/Scenes/Working.unity
+    guid: f46341ccdaeb11c4daa6b1a6ab27f3ee
+  - enabled: 1
+    path: Assets/Scenes/Needs.unity
+    guid: f9efe5a3bbb956846b9bf13c602f2121
+  - enabled: 1
+    path: Assets/Scenes/Procrastinating.unity
+    guid: ec3275db5e28db24380f00f15dff34bf
+  - enabled: 1
+    path: Assets/Scenes/Sleeping.unity
+    guid: ceea688f13ab029459a194df810774c1
+  m_configObjects: {}
